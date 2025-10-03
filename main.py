@@ -13,4 +13,3 @@ async def start(client, message):
     await message.reply_text("👋 Hello! I am ShizukaX Music Bot.")
 
 app.run()
-sss
